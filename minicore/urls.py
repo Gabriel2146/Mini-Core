@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from ventas import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.calcular_comisiones, name='calcular_comisiones'),
 ]

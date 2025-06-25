@@ -65,11 +65,11 @@ Este proyecto es una aplicación web desarrollada con Django y PostgreSQL que pe
 Puedes desplegar este proyecto en cualquier servidor compatible con Django y PostgreSQL (Heroku, Railway, Render, etc.).
 
 ## Contacto
-- Nombre: [Tu Nombre]
-- Email: [tu.email@ejemplo.com]
+- Nombre: Gabriel Padilla
+- Email: marcelo.padi.rodriguez@udla.edu.ec 
 
 ---
 
-**Repositorio GitHub:** [Agrega aquí el link de tu repo]
+**Repositorio GitHub:** https://github.com/Gabriel2146/Mini-Core
 **Video explicativo:** [Agrega aquí el link de tu video Loom o YouTube]
-**Enlace deployado:** [Agrega aquí el link de tu despliegue si aplica]
+**Enlace deployado:** https://mini-core-0z6j.onrender.com

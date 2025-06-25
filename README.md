@@ -71,5 +71,5 @@ Puedes desplegar este proyecto en cualquier servidor compatible con Django y Pos
 ---
 
 **Repositorio GitHub:** https://github.com/Gabriel2146/Mini-Core
-**Video explicativo:** [Agrega aquí el link de tu video Loom o YouTube]
+**Video explicativo:** https://youtu.be/uURE4ieyqeM 
 **Enlace deployado:** https://mini-core-0z6j.onrender.com
